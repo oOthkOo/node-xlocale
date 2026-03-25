@@ -3,6 +3,11 @@ node-xlocale
 
 NodeJS locale management module
 
+Donations
+-----
+
+:heart: Donations are always welcome :heart:.
+
 ### Buymeacoffee
 
 [<img height="55px" src="https://raw.githubusercontent.com/oOthkOo/oOthkOo/main/assets/bmac-btn.svg">](https://buymeacoffee.com/oothkoo)
